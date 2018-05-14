@@ -1,0 +1,8 @@
+{
+  "name": "es6supportinbrowser",
+  "version": "1.0.0",
+  "description": "瀏覽器支援ES6語法範例實作",
+  "main": "index.html",
+  "author": "partypeopleland@gmail.com",
+  "license": "ISC"
+}
